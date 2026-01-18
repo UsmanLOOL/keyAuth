@@ -1,5 +1,8 @@
 {
   "key": "chams",
-  "udid": "5cf5c32dd7f0ed90e6683b5dbbd53f0a4290e436",
-  "udid_retrieved": true
+  "redeemed": false
+},
+{
+  "key": "testchams",
+  "redeemed": true
 }
