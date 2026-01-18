@@ -1,8 +1,14 @@
-{
-  "key": "chams",
-  "redeemed": false
-},
-{
-  "key": "testchams",
-  "redeemed": true
-}
+[
+  {
+    "key": "chams",
+    "redeemed": false
+  },
+  {
+    "key": "testchams", 
+    "redeemed": true
+  },
+  {
+    "key": "mercurytest",
+    "redeemed": false
+  }
+]
